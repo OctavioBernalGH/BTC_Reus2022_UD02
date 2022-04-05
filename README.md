@@ -1,2 +1,6 @@
 # BTC_Reus2022_UD02
-Repositorio UD02 Bootcamp Reus
+
+Repositorio Java BTC_Reus2022_UD02 formado por 3 ejercicios.
+
+☕
+
