@@ -10,6 +10,7 @@ public class ComentarioVariasLineas {
 
 		for (int i = 0; i < 6; /* ahora viene el paso */ i++)
 			System.out.println(i + " ");
+		
 		System.out.println("FIN DE PROGRAMA");
 	}
 
